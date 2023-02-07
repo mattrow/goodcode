@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "src": "/signup", "dest": "src/signup/signup.tsx"}
+    ]
+  }
+  
