@@ -1,6 +1,4 @@
 {
-    "routes": [
-      { "src": "/signup", "dest": "src/signup/signup.tsx"}
-    ]
-  }
+  "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 }]
+}
   
